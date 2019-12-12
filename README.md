@@ -1,5 +1,5 @@
 # aesc-msu-calendar
-Solution of second homework on ICT.
+Solution of the second homework on ICT.
 
 Using:
 1. Start ..\Ready Program\Calendar.exe
